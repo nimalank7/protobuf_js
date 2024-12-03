@@ -1,0 +1,16 @@
+{
+  "name": "protobuf_js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "protobuf": "node protobuf_index.js",
+    "json": "node json_index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "google-protobuf": "^3.21.4"
+  }
+}
